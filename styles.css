@@ -1,0 +1,31 @@
+.border-div{
+  border: solid 1px grey;
+  display: inline-block;
+  height: 230px;   
+}
+.active-button{
+  border: 0px;
+  background:#2e48da;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top:10px;
+  margin-left:10px;
+}
+.link{
+  text-decoration: none;
+  color: blue;
+  margin-left: 10px;
+}
+.bg-sup{
+  background: #9e9e9e5c;
+  height: 60px;
+  width: 600px;
+}
+.text{
+  text-align:center;
+  
+}
+.center-button{
+  margin-left: 250px;
+}
